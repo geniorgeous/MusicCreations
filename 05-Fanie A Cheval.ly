@@ -46,7 +46,7 @@
     r8 r16 <g bes g'>16~ <g bes g'>8 d' r8 r16 <a fis'>16~ <a fis'>8 d r8 r16 <fis, d'>16~ <fis d'>8 c' r8 r16 <fis, c'>16~ <fis c'> bes a bes |
     r8 r16 <g bes d>16~ <g bes d>8 g' r8 r16 <bes, d>16~ <bes d>8 a' r8 r16 <a, d>16~ <a d>8 a' r8 r16 <c, fis a>16~ <c fis a> bes' a g |
     r8 r16 <g bes>16~ <g bes> <fis a> <g bes>8 <bes, d>8. <fis' a>16~ <fis a>8 <g bes> r8 r16 <g bes>16~ <g bes> <fis a> <g bes>8 <bes, ees>8. <a ees'>16~ <a ees'>8 <fis ees'> |
-    <g bes>8 <g bes>16 <fis a>~ <fis a> <fis a> <g bes>8 <bes, d>8. <fis' a>16~ <fis a>8 <g bes> <g bes>8 <g bes>16 <fis a>~ <fis a> <fis a> <g bes>8 <bes, ees>8. <g d'>16~ <g d'>8 <fis c'> | <d g bes>1
+    <g bes>8 <g bes>16 <fis a>~ <fis a>8 <g bes> <bes, d>8. <fis' a>16~ <fis a>8 <g bes>8 <g bes> <g bes>16 <fis a>~ <fis a>8 <g bes> <bes, ees>8. <g d'>16~ <g d'>8 <fis c'> | <d g bes>1
 
 
  \bar "|."
