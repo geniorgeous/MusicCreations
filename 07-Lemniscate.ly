@@ -1,5 +1,5 @@
 \header {
-  title = "Pièce n°8 : Lemniscate"
+  title = "Pièce n°7 : Lemniscate"
   source = ""
   composer = "Julien Malfait"
   enteredby = "jm"
