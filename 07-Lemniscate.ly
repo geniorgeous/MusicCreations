@@ -81,8 +81,8 @@
     \tuplet 3/2 { <aes d>8~ <aes d>8. <f c'>16~ } <f c'>8 <d f b> <ees g c>2 |%bar048
     r1 |
     \tempo 4 = 100
-    \tuplet 3/2 { <c' ees>8~ <c ees>8. <g c>16~ } <g c>8 <c ees> \tuplet 3/2 { <g c>8~ <g c>8. <c ees>16~ } <c ees>8  <g c> |
-    \tuplet 3/2 { <c ees>8~ <c ees>8. <g c>16~ } <g c>8 <c ees> <g c e>4. c'8~ |
+    \tuplet 3/2 { <c' ees>8~ <c ees>8. <aes c>16~ } <aes c>8 <c ees> \tuplet 3/2 { <aes c>8~ <aes c>8. <c ees>16~ } <c ees>8  <aes c> |
+    \tuplet 3/2 { <c ees>8~ <c ees>8. <aes c>16~ } <aes c>8 <c ees> <g c e>4. c'8~ |
     \key c\major
     <g c e>4. c8~ <aes c ees>4. c8~ |
     \tuplet 3/2 { <d, aes' c>4 c d } <e g c>4.
