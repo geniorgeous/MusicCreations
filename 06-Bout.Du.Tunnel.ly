@@ -65,13 +65,13 @@
       %{bar034%}|a2 gis8. fis e8
       %{bar035%}|e2 d8. cis b8
       %{bar036%}|cis1
-      %{bar037%}|r1
-      %{bar038%}|r1
-      %{bar039%}|<cis' a'>4 <a cis a'>2.
+      %{bar037%}|s1
+      %{bar038%}|\tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 3/2 { gis16 ais a } e16 d
+      %{bar039%}|<cis b'>2 <cis a'>2
       \bar "|."
     }
     \new Staff = "left" { \clef bass  \key d\minor
-      %{bar001%}| \tuplet 6/4 { d,,,16 a' \change Staff = "right" f' \change Staff = "left"
+      %{bar001%}| \tuplet 6/4 { d,16 a' \change Staff = "right" f' \change Staff = "left"
       d,16 a' \change Staff = "right" f' } \change Staff = "left"
       \tuplet 6/4 { d,16 a' \change Staff = "right" f' \change Staff = "left"
       d,16 a' \change Staff = "right" f' } \change Staff = "left"
@@ -114,9 +114,9 @@
       %{bar034%}|<cis fis a>2 <b d gis>
       %{bar035%}|<b e gis>1
       %{bar036%}|<a cis e>
-      %{bar037%}|a''16 a,, fis'' e, d' a, b' e, gis a, e' e <a, cis>4
+      %{bar037%}|\change Staff = "right" fis''''32 \change Staff = "left" a,,,, \change Staff = "right" d''' \change Staff = "left" e,,, \change Staff = "right" b''' \change Staff = "left" a,,, \change Staff = "right" gis''' \change Staff = "left" e,, \change Staff = "right" e'' \change Staff = "left" a,,, \change Staff = "right" cis'' \change Staff = "left" e,, \change Staff = "right" a' \change Staff = "left" a,, \change Staff = "right" fis'' \change Staff = "left" e, d' a, b' e, gis a, e' e <a, cis>4
       %{bar038%}|\tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 3/2 { gis16 ais a } e'16 gis
-      %{bar039%}|<cis, a'>4 <a a'>~ <a,, a'' a'>2
+      %{bar039%}|<e a>4 a,8 cis <e a>4~ <a,,, e''' a>
       \bar "|."
 
     }
