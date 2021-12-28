@@ -67,7 +67,7 @@
       %{bar036%}|cis1
       %{bar037%}|s1
       %{bar038%}|\tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 6/4 { gis16 ais a gis16 ais a } \tuplet 3/2 { gis16 ais a } e16 d
-      %{bar039%}|<cis b'>2 <cis a'>2
+      %{bar039%}|<d b'>2 <cis a'>2
       \bar "|."
     }
     \new Staff = "left" { \clef bass  \key d\minor
