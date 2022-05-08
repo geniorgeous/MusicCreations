@@ -1,5 +1,5 @@
 \header {
-  title = "Pièce n°6 : Bout du tunnel"
+  title = "Pièce n°4 : Bout du tunnel"
   source = ""
   composer = "Julien Malfait"
   enteredby = "jm"
