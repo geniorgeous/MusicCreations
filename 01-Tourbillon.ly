@@ -104,22 +104,26 @@
       %{bar068%}|<<  { ais'2. b } \\ { e,8 fis e fis cis e d4 b8 fis4.} >>
       \tempo 4 = 100
       %{bar069%}|fis''8 g fis e fis e d4 b8 fis4.
-      %{bar070%}|r4. r4 fis8 g b d e g ais b d cis b4 fis8 d2.
-      %{bar071%}|fis8 g fis e d cis d4 b8 g4.
-      %{bar072%}|e'8 fis e d cis ais b4 fis8 d4.
+      %{bar070%}|r4. r4 fis8 g b d e g ais
+      %{bar071%}|b d cis b4 fis8 d2.
+      %{bar072%}|fis8 g fis e d cis d4 b8 g4.
+      %{bar073%}|e'8 fis e d cis ais b4 fis8 d4.
       \tempo 4 = 140
-      %{bar073%}|<<  { b'2. ais } \\ { fis8 g fis g e g fis4 cis8 fis,4.} >>
-      %{bar074%}|<<  { ais'2. b } \\ { e,8 fis e fis cis e d4 b8 \times 3/4 { fis b d fis } } >>
+      %{bar074%}|<<  { b'2. ais } \\ { fis8 g fis g e g fis4 cis8 fis,4.} >>
+      %{bar075%}|<<  { ais'2. b } \\ { e,8 fis e fis cis e d4 b8 \times 3/4 { fis b d fis } } >>
       \time 4/4 \tempo 4 = 100
-      %{bar075%}|b8 fis b d, b'8 fis cis' ais
-      %{bar076%}|d a d fis, d' b d g
-      %{bar077%}|e cis e g, e' cis \times 2/3 { e8 d cis }
-      %{bar078%}|<d, fis b>1
+      %{bar076%}|b8 fis b d, b'8 fis cis' ais
+      %{bar077%}|d a d fis, d' b d g
+      %{bar078%}|e cis e g, e' cis \times 2/3 { e8 d cis }
+      %{bar079%}|\times 2/3 { d b d } \times 2/3 { cis g cis } \times 2/3 { cis fis, cis' } \times 2/3 { fis, e d }
+      %{bar080%}|g16 b, d g e d cis b e g, cis e d cis b ais
+      %{bar081%}|\clef bass cis e, g cis ais g fis e \key c\minor b' d, f b aes g f ees
+      %{bar082%}|c' ees, g c b aes g f b d, g f <ees g c>4
       \bar "|."
     }
     \new Staff { \clef bass \key d\major
       %{bar001%}|r1
-      %{bar002%}|b,16 d8. b'4 e,8. g16~ g4
+      %{bar002%}|b16 d8. b'4 e,8. g16~ g4
       %{bar003%}|fis,16 ais8. e'4 fis b
       %{bar004%}|g,16 b8. g'4 cis,8. e16~ e4
       %{bar005%}|fis,16 ais8. e'4 fis8. b16~ b4
@@ -196,7 +200,10 @@
       %{bar076%}|b16 d fis b b, d fis b b, d fis b cis, fis ais cis
       %{bar077%}|d, fis a d d, fis a d g, b d b d, g b d
       %{bar078%}|g, cis e cis e, g cis e fis, ais cis e \times 2/3 { fis,8 cis' e }
-      %{bar079%}|<b, d fis b>2 b,,
+      %{bar079%}|\times 2/3 { b d fis } \times 2/3 { e, g cis } \times 2/3 { fis, ais cis } \times 2/3 { b, d fis }
+      %{bar080%}|<g, g'>2 <g, g'>
+      %{bar081%}|<g g'> <g g'>
+      %{bar082%}|<g g'> <g g'>4 <c, c'>
       \bar "|."
     }
     >>

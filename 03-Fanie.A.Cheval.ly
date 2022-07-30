@@ -30,7 +30,7 @@
     \new Staff {  \time 4/4  \tempo 4 = 100 \key f\minor
       %{bar001%}|<f aes c f>8. <f aes c f> <f aes c f>8 <g bes ees g>8. <g bes ees g> <g bes ees g>8
       %{bar002%}|<aes c f aes>8. <aes c f aes> <aes c f aes>8 <aes c f aes>8. <aes c f aes>8 bes'16 aes g
-      %{bar003%}|<f, aes c f>8. <f aes c f> <f aes c f>8 <g bes ees g>8. <g bes ees g> <g bes ees g>8
+      %{bar003%}|<aes, c f>8. <aes c f> <aes c f>8 <g bes ees g>8. <g bes ees g> <g bes ees g>8
       %{bar004%}|<aes c f aes>8. <aes c f aes> <aes c f aes>8 <aes c f aes>8. <aes c f aes>8 bes'16 aes g
       %{bar005%}|f8 c16 aes~ aes c f c c8 aes16 f~ f aes c aes
       %{bar006%}|aes8 f16 c~ c f aes f f8 c16 aes~ aes c f c
@@ -94,7 +94,7 @@
       %{bar064%}|<g bes> <g bes>16 <fis a>8. <g bes>8 <a, ees'>8. <g d'> <fis c'>8
       %{bar065%}|\clef bass \tempo 4 = 60 <d g bes>4. a'8 <des, g>4. a'8
       %{bar066%}|<c, g'>4. fis8 \tuplet 3/2 {<c ees>4 d c}
-      %{bar067%}|<bes d>1 \bar "|."
+      %{bar067%}|bes1 \bar "|."
     }
     \new Staff { \clef bass  \key f\minor
       %{bar001%}|<f f'>8. <f f'> <f f'>8 <ees ees'>8. <ees ees'> <ees ees'>8
