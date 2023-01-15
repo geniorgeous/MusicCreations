@@ -68,21 +68,25 @@
       %{bar038%}|\tempo 4 = 80 <c, fis a>4 \clef bass fis, <g a> b
       %{bar039%}|<fis a> e <d g> b
       %{bar040%}|<d fis> a <c g'> b8 a
-      %{bar041%}|<d g b>4. <f g b>4 <d g b>4.
-      %{bar042%}|<f g b>1
-      %{bar043%}| \tempo 4 = 100 \clef G \key c\major r8. g16 c8 g g'4 e
-      %{bar044%}|r8. g,16 c8 g g'4 e
-      %{bar045%}|r8. g,16 c8 g g'4 e
-      %{bar046%}|r8. g,16 c8 g g'4 f8 g
-      %{bar047%}|r8. g,16 c8 g g' e b' c
-      %{bar048%}|r8. g,16 c8 g g' e e' c
-      %{bar049%}|r8. g,16 c8 g c' g e' d
-      %{bar050%}|r8. g,,16 b8 g b' g f' e
-      %{bar051%}|r8. g,16 c8 e g c e g
-      %{bar052%}|r8. g,,16 c8 e g c e g
-      %{bar053%}|r8. g,,16 c8 e g c e d
-      %{bar054%}|r8. g,,16 b8 d g b f' e
-      %{bar055%}|<g, b d>4 <g c e>2.
+      %{bar041%}|<d g b>8. \clef G \tuplet 3/2 {d''32 g b} b'4 <b, d g>2~
+      %{bar042%}|<b d g>8 e, <b d> fis <g b> e <b d> fis
+      %{bar043%}|\clef bass g4 b <fis a> e
+      %{bar044%}|<d g> b <d fis> a
+      %{bar045%}|<c g'> b8 a <d g b>4. <f g b>8~
+      %{bar046%}|<f g b>8 <d g b>4. <f g b>2
+      %{bar047%}|\tempo 4 = 100 \clef G \key c\major r8. g16 c8 g g'4 e
+      %{bar048%}|r8. g,16 c8 g g'4 e
+      %{bar049%}|r8. g,16 c8 g g'4 e
+      %{bar050%}|r8. g,16 c8 g g'4 f8 g
+      %{bar051%}|r8. g,16 c8 g g' e b' c
+      %{bar052%}|r8. g,16 c8 g g' e e' c
+      %{bar053%}|r8. g,16 c8 g c' g e' d
+      %{bar054%}|r8. g,,16 b8 g b' g f' e
+      %{bar055%}|r8. g,16 c8 e g c e g
+      %{bar056%}|r8. g,,16 c8 e g c e g
+      %{bar057%}|r8. g,,16 c8 e g c e d
+      %{bar058%}|r8. g,,16 b8 d g b f' e
+      %{bar059%}|<g, b d>4 <g c e>2.
       \bar "|."
     }
     \new Staff { \clef bass  \key d\major
@@ -126,13 +130,13 @@
       %{bar038%}|<a d> <e d'>
       %{bar039%}|<d c'> <d b'>
       %{bar040%}|<c a'> <a g'>
-      %{bar041%}|<g g'>1~
-      %{bar042%}|<g g'>
-      %{bar043%}|\key c\major c8 g' r4 r2
-      %{bar044%}|a,8 g' r4 r2
-      %{bar045%}|f,8 g' r4 r2
-      %{bar046%}|g,8 g' r4 r2
-      %{bar047%}|c,8 g' r4 r2
+      %{bar041%}|<g g'>1
+      %{bar042%}|s1
+      %{bar043%}|<e' d'>2 <d c'>
+      %{bar044%}|<d b'> <c a'>
+      %{bar045%}|<a g'> <g g'>2~
+      %{bar046%}|<g g'>1
+      %{bar047%}|\key c\major c8 g' r4 r2
       %{bar048%}|a,8 g' r4 r2
       %{bar049%}|f,8 g' r4 r2
       %{bar050%}|g,8 g' r4 r2
@@ -140,7 +144,11 @@
       %{bar052%}|a,8 g' r4 r2
       %{bar053%}|f,8 g' r4 r2
       %{bar054%}|g,8 g' r4 r2
-      %{bar055%}|c,8 g'8~ g4 c,,2
+      %{bar055%}|c,8 g' r4 r2
+      %{bar056%}|a,8 g' r4 r2
+      %{bar057%}|f,8 g' r4 r2
+      %{bar058%}|g,8 g' r4 r2
+      %{bar059%}|c,8 g'8~ g4 c,,2
        \bar "|."
     }
     >>

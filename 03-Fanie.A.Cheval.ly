@@ -77,24 +77,25 @@
       %{bar047%}|<ees g>8. <d g> <c g'>8 <d g>8. <c g'> <bes g'>8
       %{bar048%}|<c g'>8. <bes g'> <a g'>8 <bes g'>8. <g g'> <a g'>8
       %{bar049%}|<ees' g>8. <d g> <c g'>8 <d g>8. <c g'> <bes g'>8
-      %{bar050%}|<c g'>8. <bes g'> <a g'>8 <bes g'>8. <a g'> <g g'>8
+      %{bar050%}|<c g'>8. <bes g'> <a g'>8 <bes g'>8. <a g'> <d, g bes>8
       %{bar051%}|<g bes>8. <fis a> <g bes>8 <bes, d>8. <fis' a> <g bes>8
       %{bar052%}|<fis a>8. <g bes> <fis a>8 <bes, ees>8. <g' bes> <fis a>8
       %{bar053%}|<bes, d>8. <g bes> <a c>8 <bes d>8. <g bes> <a c>8
       %{bar054%}|<bes d>8. <c ees> <bes d>8 <bes d>8. <a c> <g bes>8
       %{bar055%}|<bes d>8. <g bes> <a c>8 <bes d>8. <a c> <g bes>8~
-      %{bar056%}|<g bes>8 <a c>16 <g bes>8. <fis a>8 <g bes>8. <fis a> <d g>8
-      %{bar057%}|r8. <g bes>16 <g bes>8 d' r8. <a c>16~ <a c>8 ees'
-      %{bar058%}|r8. <cis g'>16~ <cis g'>8 bes' r8. <fis c'>16~ <fis c'> bes a bes
-      %{bar059%}|r8. <g bes d>16~ <g bes d>8 g' r8. <bes, d>16~ <bes d>8 a'
-      %{bar060%}|r8. <a, d>16~ <a d>8 a' r8. <c, fis a>16~ <c fis a> bes' a g
-      %{bar061%}|r8. <g bes>16~ <g bes> <fis a> <g bes>8 <bes, d>8. <fis' a>16~ <fis a>8 <g bes>
-      %{bar062%}|r8. <g bes>16~ <g bes> <fis a> <g bes>8 <bes, ees>8. <a ees'>16~ <a ees'>8 <fis ees'>
-      %{bar063%}|\tempo 4 = 100 <g bes>8 <g bes>16 <fis a>8. <g bes>8 <bes, d>8. <fis' a> <g bes>8
-      %{bar064%}|<g bes> <g bes>16 <fis a>8. <g bes>8 <a, ees'>8. <g d'> <fis c'>8
-      %{bar065%}|\clef bass \tempo 4 = 60 <d g bes>4. a'8 <des, g>4. a'8
-      %{bar066%}|<c, g'>4. fis8 \tuplet 3/2 {<c ees>4 d c}
-      %{bar067%}|bes1 \bar "|."
+      %{bar056%}|<g bes>8 <a c>16 <g bes>8. <fis a>8 <g bes>8. <fis a> <dis g>8
+      %{bar057%}|<dis g>4. a'8 <d, g>4 fis
+      %{bar058%}|r8. <g bes>16 <g bes>8 d' r8. <a c>16~ <a c>8 ees'
+      %{bar059%}|r8. <cis g'>16~ <cis g'>8 bes' r8. <fis c'>16~ <fis c'> bes a bes
+      %{bar060%}|r8. <g bes d>16~ <g bes d>8 g' r8. <bes, d>16~ <bes d>8 a'
+      %{bar061%}|r8. <a, d>16~ <a d>8 a' r8. <c, fis a>16~ <c fis a> bes' a g
+      %{bar062%}|r8. <g bes>16~ <g bes> <fis a> <g bes>8 <bes, d>8. <fis' a>16~ <fis a>8 <g bes>
+      %{bar063%}|r8. <g bes>16~ <g bes> <fis a> <g bes>8 <bes, ees>8. <a ees'>16~ <a ees'>8 <fis ees'>
+      %{bar064%}|\tempo 4 = 100 <g bes>8 <g bes>16 <fis a>8. <g bes>8 <bes, d>8. <fis' a> <g bes>8
+      %{bar065%}|<g bes> <g bes>16 <fis a>8. <g bes>8 <a, ees'>8. <g d'> <fis c'>8
+      %{bar066%}|\clef bass \tempo 4 = 60 <d g bes>4. a'8 <des, g>4. a'8
+      %{bar067%}|<c, g'>4. fis8 \tuplet 3/2 {<c ees>4 d c}
+      %{bar068%}|bes1 \bar "|."
     }
     \new Staff { \clef bass  \key f\minor
       %{bar001%}|<f f'>8. <f f'> <f f'>8 <ees ees'>8. <ees ees'> <ees ees'>8
@@ -137,33 +138,34 @@
       %{bar038%}|<ees ees'>2 <d d'>2
       %{bar039%}|<g g'>2 <fis fis'>2
       %{bar040%}|<ees ees'>2 <d d'>2
-      %{bar041%}|<g g'>2 <fis fis'>2
-      %{bar042%}|<ees ees'>2 <d d'>2
-      %{bar043%}|<g g'>2 <fis fis'>2
-      %{bar044%}|<ees ees'>2 <d d'>2
-      %{bar045%}|<g g'>2 <fis fis'>2
-      %{bar046%}|<ees ees'>2 <d d'>2
-      %{bar047%}|<g g'>2 <fis fis'>2
-      %{bar048%}|<ees ees'>2 <d d'>2
-      %{bar049%}|<g g'>2 <fis fis'>2
-      %{bar050%}|<ees ees'>2 <d d'>2
-      %{bar051%}|<g g'>2 <fis fis'>2
-      %{bar052%}|<ees ees'>2 <d d'>2
-      %{bar053%}|<g g'>2 <fis fis'>2
-      %{bar054%}|<ees ees'>2 <d d'>2
-      %{bar055%}|<g g'>2 <fis fis'>2
-      %{bar056%}|<ees ees'>2 <d d'>2
-      %{bar057%}|<g g'>8 <g g'>~ <g g'>4 <fis fis'>8 <fis fis'>~ <fis fis'>4
-      %{bar058%}|<ees ees'>8 <ees ees'>~ <ees ees'>4 <d d'>8 <d d'>~ <d d'>4
-      %{bar059%}|<g g'>8 <g g'>~ <g g'>4 <fis fis'>8 <fis fis'>~ <fis fis'>4
-      %{bar060%}|<ees ees'>8 <ees ees'>~ <ees ees'>4 <d d'>8 <d d'>~ <d d'>4
-      %{bar061%}|<g g'>8 <g g'>~ <g g'>4 <fis fis'>8 <fis fis'>~ <fis fis'>4
-      %{bar062%}|<ees ees'>8 <ees ees'>~ <ees ees'>4 <d d'>8 <d d'>~ <d d'>4
-      %{bar063%}|<g g'>2 <fis fis'>2
-      %{bar064%}|<ees ees'>2 <d d'>2
-      %{bar065%}|<g, g'> <e e'>2
-      %{bar066%}|<d d'>2 <c c'>2
-      %{bar067%}|<g' g'>1
+      %{bar041%}|g'8. bes d8 fis,8. bes d8
+      %{bar042%}|ees,8. a d8 d,8. fis a8
+      %{bar043%}|g8. bes d8 fis,8. bes d8
+      %{bar044%}|ees,8. bes' ees8 d,8. fis a8
+      %{bar045%}|g8. bes d8 fis,8. bes d8
+      %{bar046%}|ees,8. bes' d8 d,8. bes' d8
+      %{bar047%}|g,8. bes d8 fis,8. bes d8
+      %{bar048%}|ees,8. bes' ees8 d,8. fis a8
+      %{bar049%}|g8. bes d8 fis,8. bes d8
+      %{bar050%}|ees,8. bes' ees8 d,8. fis g8
+      %{bar051%}|g,8. bes d8 fis,8. bes d8
+      %{bar052%}|ees,8. bes' ees8 d,8. bes' d8
+      %{bar053%}|g,8. bes d8 fis,8. bes d8
+      %{bar054%}|ees,8. bes' ees8 d,8. bes' d8
+      %{bar055%}|g,8. bes d8 fis,8. bes d8
+      %{bar056%}|ees,8. bes' d8 d,8. fis bes8
+      %{bar057%}|<ees, bes'>2 <d a'>
+      %{bar058%}|<g g'>8 <g g'>~ <g g'>4 <fis fis'>8 <fis fis'>~ <fis fis'>4
+      %{bar059%}|<ees ees'>8 <ees ees'>~ <ees ees'>4 <d d'>8 <d d'>~ <d d'>4
+      %{bar060%}|<g g'>8 <g g'>~ <g g'>4 <fis fis'>8 <fis fis'>~ <fis fis'>4
+      %{bar061%}|<ees ees'>8 <ees ees'>~ <ees ees'>4 <d d'>8 <d d'>~ <d d'>4
+      %{bar062%}|<g g'>8 <g g'>~ <g g'>4 <fis fis'>8 <fis fis'>~ <fis fis'>4
+      %{bar063%}|<ees ees'>8 <ees ees'>~ <ees ees'>4 <d d'>8 <d d'>~ <d d'>4
+      %{bar064%}|<g g'>2 <fis fis'>2
+      %{bar065%}|<ees ees'>2 <d d'>2
+      %{bar066%}|<g, g'> <e e'>2
+      %{bar067%}|<d d'>2 <c c'>2
+      %{bar068%}|<g' g'>1
 
 
       \bar "|."

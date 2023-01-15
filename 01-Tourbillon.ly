@@ -117,7 +117,7 @@
       %{bar078%}|e cis e g, e' cis \times 2/3 { e8 d cis }
       %{bar079%}|\times 2/3 { d b d } \times 2/3 { cis g cis } \times 2/3 { cis fis, cis' } \times 2/3 { fis, e d }
       %{bar080%}|g16 b, d g e d cis b e g, cis e d cis b ais
-      %{bar081%}|\clef bass cis e, g cis ais g fis e \key c\minor b' d, f b aes g f ees
+      %{bar081%}|\clef bass cis e, g cis ais a g f \key c\minor b d, f b aes g f ees
       %{bar082%}|c' ees, g c b aes g f b d, g f <ees g c>4
       \bar "|."
     }
@@ -202,7 +202,7 @@
       %{bar078%}|g, cis e cis e, g cis e fis, ais cis e \times 2/3 { fis,8 cis' e }
       %{bar079%}|\times 2/3 { b d fis } \times 2/3 { e, g cis } \times 2/3 { fis, ais cis } \times 2/3 { b, d fis }
       %{bar080%}|<g, g'>2 <g, g'>
-      %{bar081%}|<g g'> <g g'>
+      %{bar081%}|<g g'> \key c\minor <g g'>
       %{bar082%}|<g g'> <g g'>4 <c, c'>
       \bar "|."
     }

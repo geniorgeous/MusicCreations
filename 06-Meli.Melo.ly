@@ -141,7 +141,7 @@
     %{bar039%}|<f f'>4 f'4 <c, c'>2
     %{bar040%}|<bes bes'>2 <a a'>2
     %{bar041%}|<aes aes'>2 c16 c' r8 r4
-    %{bar042%}|r c,,2.
+    %{bar042%}|r8 c,,8~ c2.
     \bar "|."
 	}
 >>
