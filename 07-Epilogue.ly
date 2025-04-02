@@ -26,7 +26,7 @@
     %{bar002%}|fis'4~ fis16 dis cis b ais8. gis16~ gis8 fis
     %{bar003%}|fis'4~ fis16  e d cis b8. ais16~ ais8 gis
     %{bar004%}|b8. gis16~ gis e b' cis b8. g16~ g e b' cis
-    %{bar005%}|b fis b dis <dis a'>2.
+    %{bar005%}|b fis b fis' <dis a'>2.
     %{bar006%}|\key e\major gis8. e16~ e8 b'16 a gis8. e16~ e8 b'16 a
     %{bar007%}|gis8. e16~ e8 b'16 a gis8 e b'cis
     %{bar008%}|b8. gis16~ gis8 e'16 cis b8. gis16~ gis8 e'16 cis
@@ -43,7 +43,7 @@
     %{bar019%}|<c, e g>4~ <c e g>16 \clef G c' d e <b d g>4~ <b d g>16 c d e
     %{bar020%}|<c e g>4~ <c e g>16 g' a g <f a>4 a8 c
     %{bar021%}|<d, f g>4. c'8 <f, g c>4 d
-    %{bar021%}|<c e g c>1
+    %{bar021%}|<c e g c>1\arpeggio
     \bar "|."
 	}
   \new Staff { \clef bass  \key b\major
@@ -68,7 +68,7 @@
     %{bar019%}|<c c'>2 <d d'>2
     %{bar020%}|<e e'>2 <f f'>2
     %{bar021%}|<g g'>2 <c c'>2
-    %{bar022%}|<c c'>1
+    %{bar022%}|<c c'>1\arpeggio
     \bar "|."
 	}
 >>

@@ -133,8 +133,8 @@
       %{bar009%}|fis,8 ais e'4 b8. fis'16~ fis4
       %{bar010%}|fis8. g16 fis8 d cis16 fis, cis' e fis g a g
       %{bar011%}|e8. fis16 e8 cis fis16 b, d e fis g fis d
-      %{bar012%}|fis16 d fis b fis g e fis cis8. ais16 ais4
-      %{bar013%}|cis16 ais cis d e fis g fis fis8. d16 d4
+      %{bar012%}|fis16 d fis b fis g e fis cis8. ais16~ ais4
+      %{bar013%}|cis16 ais cis d e fis g fis fis8. d16~ d4
       %{bar014%}|\times 2/3 { e4 cis b } a2
       %{bar015%}|\times 2/3 { cis4 e g } d8.. a'32~ a4
       %{bar016%}|\times 2/3 { b4 a g } fis2

@@ -116,10 +116,10 @@
       %{bar016%}|<dis dis'>8 <dis dis'>8~ <dis dis'>16 <dis dis'>8 <dis dis'>16 <fis fis'>8 <fis fis'>8~ <fis fis'>16 <fis fis'>8.
       %{bar017%}|<e e'>8 <e e'>8~ <e e'>16 <e e'>8 <e e'>16 <e e'>8 <e e'>8~ <e e'>16 <e e'>8 <e e'>16
       %{bar018%}|<dis dis'>8 <dis dis'>8~ <dis dis'>16 <dis dis'>8 <dis dis'>16 <fis fis'>8 <fis fis'>8~ <fis fis'>16 <fis fis'>8.
-      %{bar019%}|<e e'>8 <e e'>4 <e e'>8 <dis dis'> <dis dis'>4 <dis dis'>8
-      %{bar020%}|<cis cis'> <cis cis'>4 <cis cis'>8 <cis cis'> <cis cis'>4 <cis cis'>8
-      %{bar021%}|<e e'>8 <e e'>4 <e e'>8 <dis dis'> <dis dis'>4 <dis dis'>8
-      %{bar022%}|<cis cis'> <cis cis'>4 <cis cis'>8 <cis cis'> <cis cis'>4 <cis cis'>8
+      %{bar019%}|<e e'>8. <e e'> <e e'>8 <dis dis'>8. <dis dis'> <dis dis'>8
+      %{bar020%}|<cis cis'>8. <cis cis'> <cis cis'>8 <cis cis'>8. <cis cis'> <cis cis'>8
+      %{bar021%}|<e e'>8. <e e'> <e e'>8 <dis dis'>8. <dis dis'> <dis dis'>8
+      %{bar022%}|<cis cis'>8. <cis cis'> <cis cis'>8 <cis cis'>8. <cis cis'> <cis cis'>8
       %{bar023%}|<e e'>8 <e e'>8~ <e e'>16 <e e'>8. <e e'>8 <e e'>8~ <e e'>16 <e e'>8.
       %{bar024%}|<e e'>8 <e e'>8~ <e e'>16 <e e'>8. <e e'>8 <e e'>8~ <e e'>16 <e e'>8.
       %{bar025%}|<e e'>8 <e e'>~ <e e'>4 <g g'>8 <g g'>~ <g g'>4
