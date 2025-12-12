@@ -31,57 +31,115 @@
     %{bar007%}|c ees g ees g ees g ees c ees g ees g ees g ees
     %{bar008%}|c ees g ees g ees g ees c ees g ees g ees g ees
     %{bar009%}|bes ees g ees g ees g ees bes ees g ees g ees g ees
-    %{bar010%}|b d g d g d g d b d g d g d g d
-    %{bar011%}|c ees g ees g ees g ees c ees g ees g ees g ees
-    %{bar012%}|c ees aes ees aes ees aes ees c ees aes ees aes ees aes ees
-    %{bar013%}|bes ees g ees g ees g ees bes ees g ees g ees g ees
-    %{bar014%}|b d g d g d g d b d g d g d g d
-    %{bar015%}|c ees g ees g ees g ees c ees g ees g ees g ees
-    %{bar016%}|c ees aes ees aes ees aes ees c ees aes ees aes ees aes ees
-    %{bar017%}|bes ees g ees g ees g ees bes ees g ees g ees g ees
-    %{bar018%}|b d g d g d g d b d g d g d g d
-    %{bar019%}|c ees g ees g ees g ees c ees g ees g ees g ees
-    %{bar020%}|c ees aes ees aes ees aes ees c ees aes ees aes ees aes ees
-    %{bar021%}|bes ees g ees g ees g ees bes ees g ees g ees g ees
-    %{bar022%}|b d g d g d g d b d g d g d g d
-    %{bar023%}|c ees g ees g ees g ees c ees g ees g ees g ees
-    %{bar024%}|c ees aes ees aes ees aes ees c ees aes ees aes ees aes ees
-    %{bar025%}|bes ees g ees g ees g ees bes ees g ees g ees g ees
-    %{bar026%}|b d g d g d g d b d g d g d g d
-    %{bar027%}|c ees g ees g ees g ees c ees g ees g ees g ees
-    %{bar028%}|c ees aes ees aes ees aes ees c ees aes ees aes ees aes ees
-    %{bar029%}|bes ees g ees g ees g ees bes ees g ees g ees g ees
-    %{bar030%}|b d g d g d g d b d g d g d g d
-    %{bar031%}|c ees g ees g ees g ees c ees g ees g ees g ees
+    %{bar010%}|<<  { r2. d'4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar011%}|<<  { c'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %<<  { r2. d'4 } \\ {  } >>
+    %{bar012%}|<<  { r2. ees'4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar013%}|<<  { d'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar014%}|<<  { r2. d'4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar015%}|<<  { c'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar016%}|<<  { r2. f'4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar017%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar018%}|<<  { r2. f'4 } \\ { b,,16 d g d g d g d b d g d g d g d } >>
+    %{bar019%}|<<  { ees'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar020%}|<<  { r2. f'4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar021%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar022%}|<<  { r2. ees'4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar023%}|<<  { d'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar024%}|<<  { c'2. f4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar025%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar026%}|<<  { d'2. ees4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar027%}|<<  { d'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar028%}|<<  { c'2. f4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar029%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar030%}|<<  { d'2. ees4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar031%}|<<  { d'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
     %{bar032%}|c ees g ees g ees g ees c ees g ees g ees g ees
-    %{bar033%}|c ees g ees g ees g ees c ees g ees g ees g ees
+    %{bar033%}|c f aes f aes f aes f c f aes f aes f aes f
+    %{bar034%}|c f aes f aes f aes f c f aes f aes f aes f
+    %{bar035%}|c d f d f d f d c d f d f d f d
+    %{bar036%}|c d f d f d f d c d f d f d f d
+    %{bar037%}|c ees g ees g ees g ees c ees g ees g ees g ees
+    %{bar038%}|c ees g ees g ees g ees c ees g ees g ees g ees
+    %{bar039%}|bes ees g ees g ees g ees bes ees g ees g ees g ees
+    %{bar010%}|<<  { r2. d'4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar011%}|<<  { c'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %<<  { r2. d'4 } \\ {  } >>
+    %{bar012%}|<<  { r2. ees'4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar013%}|<<  { d'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar014%}|<<  { r2. d'4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar015%}|<<  { c'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar016%}|<<  { r2. f'4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar017%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar018%}|<<  { r2. f'4 } \\ { b,,16 d g d g d g d b d g d g d g d } >>
+    %{bar019%}|<<  { ees'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar020%}|<<  { r2. f'4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar021%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar022%}|<<  { d'2. ees4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar023%}|<<  { d'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar024%}|<<  { c'2. f4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar025%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar026%}|<<  { d'2. ees4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar027%}|<<  { d'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar028%}|<<  { c'2. f4 } \\ { c,16 ees aes ees aes ees aes ees c ees aes ees aes ees aes ees } >>
+    %{bar029%}|<<  { ees'1 } \\ { bes,16 ees g ees g ees g ees bes ees g ees g ees g ees } >>
+    %{bar030%}|<<  { d'2. ees4 } \\ { b,16 d g d g d g d b d g d g d g d } >>
+    %{bar031%}|<<  { d'1 } \\ { c,16 ees g ees g ees g ees c ees g ees g ees g ees } >>
+    %{bar062%}|c ees g ees g ees g ees c ees g ees g ees g ees
+    %{bar063%}|c ees g ees g ees g ees c ees g ees g ees g ees
+    %{bar064%}|c ees g ees g ees g ees c2
     \bar "|."
 	}
   \new Staff { \clef bass  \key c\minor
-    %{bar001%}|r1 |r1 |r1 |r1 |r1 |r1 |r1 |r1 |r1 |\clef G r2. d'4
-    %{bar011%}|c1
-    %{bar012%}|r2. ees4
-    %{bar013%}|d1
-    %{bar014%}|r2. d4
-    %{bar015%}|c1
-    %{bar016%}|r2. f4
-    %{bar017%}|ees1
-    %{bar018%}|r2. f4
-    %{bar019%}|ees2 \clef bass <c,,, c'>
-    %{bar020%}|<aes aes'>2. \clef G f''''4
-    %{bar021%}|ees2 \clef bass <ees,,,, ees'>
-    %{bar022%}|<g g'>2. \clef G ees''''4
-    %{bar023%}|d2 \clef bass <c,,, c'>
-    %{bar024%}|<aes aes'>2 <aes aes'>4 \clef G f''''4
-    %{bar025%}|ees2 \clef bass <ees,,,, ees'>
-    %{bar026%}|<g g'>2 <g g'>4 \clef G ees''''4
-    %{bar027%}|d2 \clef bass <c,,, c'>
-    %{bar028%}|<aes aes'>2 <aes aes'>4 \clef G f''''4
-    %{bar029%}|ees2 \clef bass <ees,,,, ees'>
-    %{bar030%}|<g g'>2 <g g'>4 \clef G ees''''4
-    %{bar031%}|c1
+    %{bar001%}|r1 |r1 |r1 |r1 |r1 |r1 |r1 |r1 |r1 |r
+    %{bar011%}|r
+    %{bar012%}|r
+    %{bar013%}|r
+    %{bar014%}|r
+    %{bar015%}|r
+    %{bar016%}|r
+    %{bar017%}|r
+    %{bar018%}|r
+    %{bar019%}|<c, c'>1
+    %{bar020%}|<aes aes'>
+    %{bar021%}|<ees ees'>
+    %{bar022%}|<g g'>
+    %{bar023%}|<c c'>
+    %{bar024%}|<aes aes'>
+    %{bar025%}|<ees ees'>
+    %{bar026%}|<g g'>
+    %{bar027%}|<c c'>2 <c c'>
+    %{bar028%}|<aes aes'> <aes aes'>
+    %{bar029%}|<ees ees'> <ees ees'>
+    %{bar030%}|<g g'> <g g'>
+    %{bar031%}|r1
     %{bar032%}|r
     %{bar033%}|r
+    %{bar034%}|r | r | r | r | r | r |r
+    %{bar041%}|r
+    %{bar042%}|r
+    %{bar043%}|r
+    %{bar044%}|r
+    %{bar045%}|r
+    %{bar046%}|r
+    %{bar047%}|r
+    %{bar048%}|r
+    %{bar019%}|<c c'>1
+    %{bar020%}|<aes aes'>
+    %{bar021%}|<ees ees'>
+    %{bar022%}|<g g'>
+    %{bar023%}|<c c'>
+    %{bar024%}|<aes aes'>
+    %{bar025%}|<ees ees'>
+    %{bar026%}|<g g'>
+    %{bar057%}|<c c'>2 <c c'>
+    %{bar058%}|<aes aes'> <aes aes'>
+    %{bar059%}|<ees ees'> <ees ees'>
+    %{bar060%}|<g g'> <g g'>
+    %{bar061%}|r1
+    %{bar062%}|r
+    %{bar063%}|r1
+    %{bar064%}|r2 <c c'>
 	}
 >>
 }
